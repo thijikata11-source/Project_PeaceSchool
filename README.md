@@ -4,8 +4,8 @@ Collaborative project for a hobby game, just ignore this repo, find something el
 
 ## Main Tools
 
-*Game Engine: Unity 2022.3.62f3 LTS
-*VFX/3D: Blender 4.2.2 LTS
+* Game Engine: Unity 2022.3.62f3 LTS
+* VFX/3D: Blender 4.2.2 LTS
 
 ## Optimization
 
