@@ -9,7 +9,7 @@ Collaborative project for a hobby game, just ignore this repo, find something el
 
 ## Optimization
 
-* APKTool (iBootPeaches/Connor Tumbleson) [Android Decompiler]
+* APKTool (iBotPeaches/Connor Tumbleson) [Android Decompiler]
 * Smali (JesusFreke) [SMALI/Dalvik/ART Decompiler]
 * apksigner (Google) [x509 test key]
 * 3DCompressor (IllusionMods)
