@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a07cc532f209c904499d3ff868e595e9, type: 3}
+  m_Name: C-Yanyan
+  m_EditorClassIdentifier: 
+  characterId: 3
+  characterName: Yanyan
+  characterPortrait: {fileID: -990894079, guid: b284761ee78042f42a82b1efc9e9223b, type: 3}
+  characterLevel: 1
+  currentExp: 0
+  expToLevelUp: 50
+  strongWith: 0
+  weakWith: 0
+  HP: 1000
+  Mana: 0
+  Stamina: 0
+  Energy: 0
+  pAttack: 0
+  pDefense: 0
+  mAttack: 0
+  mDefense: 0
+  characterSpeed: 0
+  characterAgility: 0
+  characterAccuracy: 0
+  characterCritical: 0
+  characterDodge: 0
+  characterLuck: 0
+  characterHeal: 0

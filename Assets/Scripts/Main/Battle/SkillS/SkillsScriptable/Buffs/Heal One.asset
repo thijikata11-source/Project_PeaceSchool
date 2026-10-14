@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d6b0eb2182efe46b91c018f375289d, type: 3}
+  m_Name: Heal One
+  m_EditorClassIdentifier: 
+  skillName: Heal One
+  skillDescription: 
+  skillIcon: {fileID: 0}
+  skillAbility: 1
+  skillScope: 1
+  skillAnimationName: HealShield
+  skillEffectPrefab: {fileID: 911366705424559218, guid: 7920b5521456dc8419dddc1e0fc79ce2, type: 3}
+  skillElement: 0
+  hpCost: 0
+  manaCost: 10
+  staminaCost: 0
+  energyCost: 0
+  skillDamage: 0
+  healHP: 10
+  restoreMana: 0
+  restoreStamina: 0
+  restoreEnergy: 0
+  isRangedSkill: 1

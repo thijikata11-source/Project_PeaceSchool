@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f506c31fb21792a4586fedd19fd92a40, type: 3}
+  m_Name: RyeonDialogues
+  m_EditorClassIdentifier: 
+  rules:
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 1
+    frontCharacterId: 0
+    noPartyRequirements: 0
+    requiredPartyMemberIds: 00000000
+    alternateDialogues:
+    - {fileID: 11400000, guid: c81b28c2660d8ce44b52cb4d7aadf755, type: 2}
+    - {fileID: 11400000, guid: 08ce1c54d168b67468e24a2bc4eb221e, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 1
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: 4f31975cf0187fe418054fa942abd4b5, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 2
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: 8db61ba60dbbe0e4cb6b35bf56bbfe0f, type: 2}
