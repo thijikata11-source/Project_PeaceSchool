@@ -13,3 +13,5 @@ Collaborative project for a hobby game, just ignore this repo, find something el
 * Smali (JesusFreke) [SMALI/Dalvik/ART Decompiler]
 * apksigner (Google) [x509 test key]
 * 3DCompressor (IllusionMods)
+
+Build Updated - October 14, 2026
