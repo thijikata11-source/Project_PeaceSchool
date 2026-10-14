@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3012ddef4ca1ffa4b86154092e4fe25a, type: 3}
+  m_Name: 0-RenkiCommandDialogue
+  m_EditorClassIdentifier: 
+  dialogueRules:
+  - anyLeaderCharacter: 0
+    requiredFrontLeaderId: 0
+    greetingDialogue: {fileID: 11400000, guid: bf570c0c21a201e4a913d84b0852d96a, type: 2}
+    giveDialogue: {fileID: 11400000, guid: 33b4e30b92ab3de458dc21f1af5cb0ff, type: 2}
+    recruitDialogue: {fileID: 11400000, guid: 2cbbed871a99229479c732cb548078fc, type: 2}
+    trainingDialogue: {fileID: 11400000, guid: 286282029789b0442b3406a49b93e8b6, type: 2}
+    releaseDialogue: {fileID: 11400000, guid: c2a868cbd3a9f2341a72a213f2093687, type: 2}
+    checkDialogue: {fileID: 11400000, guid: 04c9f88f26e2978449cc210db798a6aa, type: 2}
+    nothingDialogue: {fileID: 11400000, guid: f52b6d2cca613d94788da1e397775616, type: 2}
+  - anyLeaderCharacter: 0
+    requiredFrontLeaderId: 2
+    greetingDialogue: {fileID: 11400000, guid: 7af48f82b8e831c449a805910215b755, type: 2}
+    giveDialogue: {fileID: 11400000, guid: fb8945b8c938cca46b400cfc29d9a529, type: 2}
+    recruitDialogue: {fileID: 11400000, guid: 80a25d611820a9541a03f3a01dfa3c9e, type: 2}
+    trainingDialogue: {fileID: 11400000, guid: aa734e88a57d53f49b5730659a030f6f, type: 2}
+    releaseDialogue: {fileID: 11400000, guid: 9549018dd8487a54884acf4438d98c17, type: 2}
+    checkDialogue: {fileID: 11400000, guid: 4b6e36e54e99dd64b9ae7d4ceba0b14a, type: 2}
+    nothingDialogue: {fileID: 11400000, guid: 6f2cae4edc4436c4497725fe649c674d, type: 2}

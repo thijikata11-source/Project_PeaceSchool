@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f506c31fb21792a4586fedd19fd92a40, type: 3}
+  m_Name: LiteraryGirlDatabase
+  m_EditorClassIdentifier: 
+  rules:
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 0
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: 8cb1c75a519d7764b92b8c5e72d19428, type: 2}
+    - {fileID: 11400000, guid: 9b4e4ea0cbb461e4899f655287fa8e22, type: 2}
+    - {fileID: 11400000, guid: 31a7ec4098308c442a38050e99e2e7f3, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 1
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: a5447015cc1625e429d559507168b10b, type: 2}
+    - {fileID: 11400000, guid: 9b4e4ea0cbb461e4899f655287fa8e22, type: 2}
+    - {fileID: 11400000, guid: 31a7ec4098308c442a38050e99e2e7f3, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 2
+    noPartyRequirements: 0
+    requiredPartyMemberIds: 01000000
+    alternateDialogues:
+    - {fileID: 11400000, guid: 3a46c21ec81e3554db478188a70e0d99, type: 2}
+    - {fileID: 11400000, guid: 1e1b22bce9c90964190e79be102a6eeb, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 2
+    noPartyRequirements: 0
+    requiredPartyMemberIds: 01000000
+    alternateDialogues:
+    - {fileID: 11400000, guid: 3a124add51e98964b850540ee90ad69d, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 100
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: 1d5cef6bd9581fc4896e1b53959ee568, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 100
+    noPartyRequirements: 0
+    requiredPartyMemberIds: 02000000
+    alternateDialogues:
+    - {fileID: 11400000, guid: 3e93a5705893ec849a483afe8cebee2b, type: 2}

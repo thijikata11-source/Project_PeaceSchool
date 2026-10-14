@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f506c31fb21792a4586fedd19fd92a40, type: 3}
+  m_Name: 0-ReijiDialogues
+  m_EditorClassIdentifier: 
+  rules:
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 0
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 01000000
+    alternateDialogues:
+    - {fileID: 11400000, guid: d8cf3e2ea19f8e5408c35e4a44f7f0a0, type: 2}
+    - {fileID: 11400000, guid: b798d9e99ba64324ab4da8f5519332e5, type: 2}
+    - {fileID: 11400000, guid: 6090e60cb17fd474895aae73ab8e672a, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 0
+    noPartyRequirements: 0
+    requiredPartyMemberIds: 01000000
+    alternateDialogues:
+    - {fileID: 11400000, guid: 7aca8b5ade0c3b541a442f08bb3616ed, type: 2}
+    - {fileID: 11400000, guid: 84183e667123578478e2e2ff978da755, type: 2}
+    - {fileID: 11400000, guid: 6090e60cb17fd474895aae73ab8e672a, type: 2}
+    - {fileID: 11400000, guid: b798d9e99ba64324ab4da8f5519332e5, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 1
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: a11b19cbfbe63eb4cb3586e1a2174c91, type: 2}
+    - {fileID: 11400000, guid: 7651a68e4e21aa740b4fa4b3a6e4bae7, type: 2}
+  - anyTime: 1
+    timePeriod: 0
+    anyCharacter: 0
+    frontCharacterId: 100
+    noPartyRequirements: 1
+    requiredPartyMemberIds: 
+    alternateDialogues:
+    - {fileID: 11400000, guid: f035ee98d91e7db41b115094350dea02, type: 2}
+    - {fileID: 11400000, guid: f54d1c0fedef3484389cb86a3e37c17d, type: 2}
